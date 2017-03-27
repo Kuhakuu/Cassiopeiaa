@@ -1,0 +1,2 @@
+C:\Users\Ramiro\Desktop\C#\CassiopeiaScript\CassiopeiaScript\bin\Debug\CassiopeiaScript.exe.config
+C:\Users\Ramiro\Desktop\ScriptLoL\CassiopeiaScript\CassiopeiaScript\bin\Debug\CassiopeiaScript.exe.config
